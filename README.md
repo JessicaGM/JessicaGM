@@ -1,5 +1,5 @@
 ### Hi there, I'm Jessica 👋
-I'm currently a Second Year Computer Science student.
+I'm a Second Year Computer Science student at Aston University.
 
 ### What I'm learning and using:
 
@@ -15,11 +15,10 @@ I'm currently a Second Year Computer Science student.
 <a href="https://www.w3schools.com/sql/" target="_blank"><img src="images/icons/sql.png" alt="SQL" height="40"/></a>
 
 #### Other tools:
-<a href="https://atom.io/" target="_blank"><img src="images/icons/atom.svg" alt="Atom" height="40"/></a>
 <a href="https://azure.microsoft.com/en-au/" target="_blank"><img src="images/icons/azure.svg" alt="Microsoft Azure" height="40"/></a>
+<a href="https://www.adobe.com/uk/creativecloud.html" target="_blank"><img src="images/icons/adobe-creative-cloud.svg" alt="Adobe Creative Cloud" height="40"/></a> 
 <a href="https://www.eclipse.org/" target="_blank"><img src="images/icons/eclipse.svg" alt="Eclipse" height="40"/></a>
-<a href="https://www.adobe.com/uk/products/photoshop-lightroom.html" target="_blank"><img src="images/icons/lightroom.svg" alt="Adobe Lightroom" height="40"/></a> 
 <a href="https://www.linux.org/" target="_blank"><img src="images/icons/linux.svg" alt="Linux" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="images/icons/mysql.svg" alt="MySQL" height="40"/></a>
-<a href="https://processing.org/" target="_blank"><img src="images/icons/processing.png" alt="Processing" height="40"/></a>
-<a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img src="images/icons/windows.svg" alt="Windows" height="40"/></a> 
+<a href="https://www.microsoft.com/en-gb/windows" target="_blank"><img src="images/icons/windows.svg" alt="Windows" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="images/icons/visual-studio-code.svg" alt="Visual Studio Code" height="40"/></a>
